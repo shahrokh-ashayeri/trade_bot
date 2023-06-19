@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import flet as ft
 
 
@@ -27,3 +28,6 @@ def main(page: ft.Page):
     )
 
 ft.app(target=main)
+=======
+print("this file was modified in bugfix branch")
+>>>>>>> bugfix
